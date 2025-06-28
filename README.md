@@ -93,7 +93,7 @@
 ## 📈 Contribution Activity
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanal2206&theme=react-dark" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanal2206&theme=react-dark&area=true" />
 </p>
 
 ---
