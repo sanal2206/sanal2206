@@ -1,9 +1,8 @@
 # 💫 About Me:
-👋 Hi there! I’m **Sanal Sabu**, a passionate Full Stack Web Developer with a background in **Computer Science**.  
-💻 Skilled in **Python, Django, PostgreSQL, React**, and building scalable web applications.  
-🚀 Currently working on a **smartphone e-commerce platform** and actively contributing to **open-source** projects.  
-📚 Bootcamp-trained, with hands-on experience across the full development lifecycle.  
-💡 Enthusiastic about learning new technologies, solving real-world problems, and improving user experience.
+👋 Hi there! I’m **Sanal Sabu**, a passionate Full Stack Web Developer and Computer Science graduate from **Bengaluru North University** with a CGPA of **9.15**.  
+💻 Skilled in building scalable, efficient web applications using **Python**, **Django**, **React**, and modern tools.  
+📚 Bootcamp-trained through a self-learning model, with strong foundations in **Data Structures and Algorithms**.  
+☁️ Eager to solve real-world problems and explore cloud technologies like **AWS** and **Firebase**.
 
 ---
 
@@ -19,6 +18,9 @@
 ### 👨‍💻 Languages
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
+  <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
@@ -29,6 +31,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
@@ -39,8 +42,10 @@
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### ⚙️ Tools & DevOps
+### ☁️ Cloud & Tools
 <p align="left">
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
