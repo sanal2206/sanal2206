@@ -83,9 +83,11 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanal2206&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
+## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sanal2206&theme=radical" />
+  <img src="https://github-profile-trophy.vercel.app/?username=sanal2206&theme=algolia&row=2&column=4" />
 </p>
+
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanal2206&theme=react-dark" />
