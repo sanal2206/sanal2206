@@ -1,10 +1,10 @@
 <h1 align="center">Hi there, I'm Sanal Sabu 👋</h1>
 
-<p >
-🎓 CS Graduate from <strong>Bengaluru North University</strong> (CGPA: 9.15) <br>
-💻 Passionate Full Stack Web Developer | Python & Django Enthusiast <br>
-🚀 Self-taught via bootcamp and building real-world projects <br>
-🌐 Open-source contributor | Exploring Cloud & DevOps 🚀
+<p align="center">
+🎓 CS Graduate from <strong>Bengaluru North University</strong> (CGPA: 9.15)<br>
+💻 Passionate Full Stack Web Developer | Python & Django Enthusiast<br>
+🚀 Self-taught via bootcamp and building real-world projects<br>
+🌐 Open-source contributor | Exploring Cloud & DevOps
 </p>
 
 ---
@@ -13,8 +13,8 @@
 
 - 🎯 Full Stack Developer trained in **Python, Django, React, PostgreSQL**
 - 📈 Strong foundation in **Data Structures, Algorithms**
-- ☁️ Interested in **Cloud Computing (AWS, Firebase)** & modern web tech
-- ✨ Always eager to **collaborate** and learn from the community
+- ☁️ Exploring **AWS, Firebase**, and **modern web tech**
+- ✨ Eager to **collaborate**, contribute, and grow with the tech community
 
 ---
 
@@ -47,6 +47,7 @@
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Redux%20Toolkit-593D88?style=for-the-badge&logo=redux&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white"/>
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
@@ -83,11 +84,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanal2206&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
-## 🏆 Contribution
+## 🏆 Contribution Trophies
+
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanal2206&theme=algolia&row=2&column=4" />
 </p>
 
+## 📈 Contribution Activity
 
 <p align="center">
   <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanal2206&theme=react-dark" />
@@ -100,6 +103,7 @@
 > “First, solve the problem. Then, write the code.” — John Johnson
 
 ---
+
 _📌 Check out my GitHub: [sanal2206](https://github.com/sanal2206)_
 
 _🎯 Let's build something amazing together!_
