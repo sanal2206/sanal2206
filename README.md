@@ -1,6 +1,6 @@
 <h1 align="center">Hi there, I'm Sanal Sabu 👋</h1>
 
-<p align="center">
+<p >
 🎓 CS Graduate from <strong>Bengaluru North University</strong> (CGPA: 9.15) <br>
 💻 Passionate Full Stack Web Developer | Python & Django Enthusiast <br>
 🚀 Self-taught via bootcamp and building real-world projects <br>
