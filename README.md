@@ -1,33 +1,49 @@
-# 💫 About Me:
-👋 Hi there! I’m **Sanal Sabu**, a passionate Full Stack Web Developer and Computer Science graduate from **Bengaluru North University** with a CGPA of **9.15**.  
-💻 Skilled in building scalable, efficient web applications using **Python**, **Django**, **React**, and modern tools.  
-📚 Bootcamp-trained through a self-learning model, with strong foundations in **Data Structures and Algorithms**.  
-☁️ Eager to solve real-world problems and explore cloud technologies like **AWS** and **Firebase**.
+<h1 align="center">Hi there, I'm Sanal Sabu 👋</h1>
+
+<p align="center">
+🎓 CS Graduate from <strong>Bengaluru North University</strong> (CGPA: 9.15) <br>
+💻 Passionate Full Stack Web Developer | Python & Django Enthusiast <br>
+🚀 Self-taught via bootcamp and building real-world projects <br>
+🌐 Open-source contributor | Exploring Cloud & DevOps 🚀
+</p>
 
 ---
 
-## 🌐 Connect With Me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sanal-sabu-/)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/sanal2206)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:sanalsabu22@gmail.com)
+## 🧠 About Me
+
+- 🎯 Full Stack Developer trained in **Python, Django, React, PostgreSQL**
+- 📈 Strong foundation in **Data Structures, Algorithms**
+- ☁️ Interested in **Cloud Computing (AWS, Firebase)** & modern web tech
+- ✨ Always eager to **collaborate** and learn from the community
 
 ---
 
-## 🛠️ Tech Stack:
+## 🌐 Connect With Me
 
-### 👨‍💻 Languages
 <p align="left">
+  <a href="https://www.linkedin.com/in/sanal-sabu-/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://github.com/sanal2206"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:sanalsabu22@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
+
+---
+
+## 🛠️ Tech Stack
+
+### 👨‍💻 Languages  
+<p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white"/>
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white"/>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sqlite&logoColor=white"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
 </p>
 
-### 🧩 Frameworks & Libraries
-<p align="left">
+### 🧩 Frameworks & Libraries  
+<p>
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/DRF-red?style=for-the-badge&logo=django&logoColor=white"/>
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
@@ -35,42 +51,53 @@
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white"/>
 </p>
 
-### 🛢️ Databases
-<p align="left">
+### 🛢️ Databases  
+<p>
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white"/>
   <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
 </p>
 
-### ☁️ Cloud & Tools
-<p align="left">
+### ☁️ Tools & DevOps  
+<p>
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white"/>
+  <img src="https://img.shields.io/badge/VSCode-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
   <img src="https://img.shields.io/badge/Postman-F76935?style=for-the-badge&logo=postman&logoColor=white"/>
   <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white"/>
 </p>
 
-### 🎨 Design & Auth
-<p align="left">
+### 🎨 Design & Auth  
+<p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=json-web-tokens&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
 </p>
 
 ---
 
-## 📈 GitHub Stats:
-<p align="left">
+## 📊 GitHub Profile Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=sanal2206&show_icons=true&theme=tokyonight" height="200"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanal2206&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=sanal2206&theme=radical" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.cyclic.app/graph?username=sanal2206&theme=react-dark" />
+</p>
+
 ---
 
-## ✍️ Random Dev Quote
+## ✍️ Dev Quote
+
 > “First, solve the problem. Then, write the code.” — John Johnson
 
 ---
+_📌 Check out my GitHub: [sanal2206](https://github.com/sanal2206)_
 
-_🎯 Let’s build something amazing together!_
+_🎯 Let's build something amazing together!_
