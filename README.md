@@ -83,7 +83,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanal2206&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
-## 🏆 GitHub Trophies
+## 🏆 Contribution
 <p align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=sanal2206&theme=algolia&row=2&column=4" />
 </p>
