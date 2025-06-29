@@ -84,14 +84,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanal2206&layout=compact&theme=tokyonight" height="200"/>
 </p>
 
- 
-
-## 📈 Contribution Activity
+---
+## 🔥 GitHub Contribution Streak
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=sanal2206&theme=react-dark&area=true" />
+  <img src="https://streak-stats.demolab.com?user=sanal2206&theme=tokyonight&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="sanal2206's GitHub streak" />
 </p>
-
+ 
 ---
 
 ## ✍️ Dev Quote
