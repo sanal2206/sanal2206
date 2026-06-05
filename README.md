@@ -13,9 +13,10 @@
 ## 🧠 About Me
 
 - 🎯 Full Stack Developer trained in **Python, Django, React, PostgreSQL**
-- 📈 Strong foundation in **Data Structures, Algorithms**
-- ☁️ Exploring **AWS, Firebase**, and **modern web tech**
-- ✨ Eager to **collaborate**, contribute, and grow with the tech community
+- 🤖 Exploring **Generative AI, AI Agents, RAG, and LLM-powered applications**
+- 📈 Strong foundation in **Data Structures, Algorithms, and Problem Solving**
+- ☁️ Learning **AWS, Firebase, Cloud Technologies, and DevOps fundamentals**
+- ✨ Eager to **collaborate, contribute to open source, and grow with the tech community**
 
 ---
 
