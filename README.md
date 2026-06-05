@@ -2,9 +2,10 @@
 
 <p align="center">
 🎓 CS Graduate from <strong>Bengaluru North University</strong> (CGPA: 9.15)<br>
-💻 Passionate Full Stack Web Developer | Python & Django Enthusiast<br>
-🚀 Self-taught via bootcamp and building real-world projects<br>
-🌐 Open-source contributor | Exploring Cloud & DevOps
+💻 Full Stack Web Developer specializing in Python, Django, and PostgreSQL<br>
+🤖 Exploring Generative AI, AI Agents, RAG, and LLM-powered Applications<br>
+🚀 Building real-world projects and continuously expanding my technical expertise<br>
+🌐 Open-source contributor | Interested in Cloud, DevOps, and AI Technologies
 </p>
 
 ---
